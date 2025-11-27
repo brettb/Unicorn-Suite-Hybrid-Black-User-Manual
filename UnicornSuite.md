@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;[Uninstall Unicorn Suite Hybrid Black](#uninstall-unicorn-suite-hybrid-black)
 [Installation](#installation)<br/>
 [Software Prerequisites](#software-prerequisites)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Bluetooth Confuguration](#bluetooth-configuration)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Bluetooth Configuration](#bluetooth-configuration)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Switch Bluetooth Dongle](#switch-bluetooth-dongle)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Disable Bluetooth Power Adaptor](#disable-bluetooth-power-saving-mode)<br/>
 &nbsp;&nbsp;&nbsp;[Optimize the Power Plan](#optimize-the-power-plan)<br/>
